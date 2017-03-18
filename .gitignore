@@ -1,0 +1,67 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @semyonov-m-y
+ Sign out
+ Unwatch 1
+  Star 0
+  Fork 1 Sheptytskyid/GoJava5EE_mod2_hw
+ Code  Issues 0  Pull requests 3  Projects 0  Wiki  Pulse  Graphs
+Branch: master Find file Copy pathGoJava5EE_mod2_hw/.gitignore
+994e533  21 days ago
+@Sheptytskyid Sheptytskyid initial
+1 contributor
+RawBlameHistory     
+48 lines (38 sloc)  415 Bytes
+### IntelliJ ###
+/.idea/
+/.idea_modules/
+/out/
+*.iml
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Eclipse ###
+.metadata
+/bin/
+/tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.recommenders
+
+### Log files ###
+/logs/
+/log/
+*.log
+
+### Package files ###
+*.jar
+*.war
+*.ear
+
+### Database files ###
+*.bin
+
+### Other files ###
+/debug/
+/release/
+/target/
+
+!.gitignore
+
+
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
